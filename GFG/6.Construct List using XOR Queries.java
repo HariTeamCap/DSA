@@ -24,3 +24,6 @@ class Solution {
         return list;
     }
 }
+// Processing queries: O(q)
+// Final XOR pass: O(n)
+// Sorting: O(n log n)
