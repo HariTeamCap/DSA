@@ -1,119 +1,89 @@
-# 🚀 Data Structures & Algorithms
+# Data Structures & Algorithms
 
-Welcome to my DSA repository! 👋
+This repository contains Java solutions and practice programs for Data Structures and Algorithms.
+The problems are organized topic-wise so it is easy to browse by concept while preparing for interviews.
 
-This repository contains my solutions to **LeetCode**, **GeeksforGeeks**, and other coding problems that I solve regularly to improve my problem-solving skills and prepare for Software Engineering interviews.
+## Repository Structure
 
----
-
-## 📌 About
-
-- 💻 Language: **Java**
-- 🎯 Goal: Master Data Structures & Algorithms
-- 📚 Platforms:
-  - LeetCode
-  - GeeksforGeeks
-- 🔥 Solving Daily Problem of the Day
-- 📈 Continuously updating with new problems
-
----
-
-## 📂 Repository Structure
-
-```
-DSA
-│
+```text
+DSA/
 ├── Class/
-│   ├── Arrays
-│   ├── Strings
-│   ├── Recursion
-│   ├── Searching
-│   ├── Sorting
-│   ├── LinkedList
-│   ├── Stack
-│   ├── Queue
-│   ├── Trees
-│   ├── Graphs
-│   └── Dynamic Programming
-│
-├── LeetCode/
-│   ├── Easy
-│   ├── Medium
-│   └── Hard
-│
+│   ├── Arrays/
+│   └── Mathematics/
 ├── GFG/
-│   ├── POTD
-│   └── Practice
-│
+│   ├── Backtracking/
+│   ├── Binary Search/
+│   ├── Bit Manipulation/
+│   ├── Dynamic Programming/
+│   ├── Greedy/
+│   ├── Hashing/
+│   ├── Mathematics/
+│   ├── Matrix/
+│   ├── Prefix Sum/
+│   ├── Strings/
+│   └── Two Pointers/
+├── leetcode/
+│   ├── Arrays/
+│   ├── Dynamic Programming/
+│   ├── Fenwick Tree/
+│   ├── Graphs/
+│   ├── Greedy/
+│   ├── Hashing/
+│   ├── Linked List/
+│   ├── Math/
+│   ├── Prefix Sum/
+│   ├── Sliding Window/
+│   ├── Sorting/
+│   ├── Strings/
+│   └── Trees/
 └── README.md
 ```
 
----
+## Folder Guide
 
-## 📚 Topics Covered
+- `Class/`: Core Java and DSA practice programs from class learning.
+- `GFG/`: GeeksforGeeks problems organized by primary DSA topic.
+- `leetcode/`: LeetCode problems organized by primary DSA topic.
+
+## Topics Covered
 
 - Arrays
-- Strings
-- Sorting
-- Searching
-- Recursion
 - Backtracking
-- Linked List
-- Stack
-- Queue
-- Hashing
 - Binary Search
-- Trees
-- Binary Search Trees
-- Heaps
-- Graphs
-- Greedy Algorithms
-- Dynamic Programming
-- Sliding Window
-- Two Pointers
-- Prefix Sum
 - Bit Manipulation
-- Math
-- Tries
+- Dynamic Programming
+- Fenwick Tree
+- Graphs
+- Greedy
+- Hashing
+- Linked List
+- Math and Mathematics
+- Matrix
+- Prefix Sum
+- Sliding Window
+- Sorting
+- Strings
+- Trees
+- Two Pointers
 
----
+## Naming Convention
 
-## 🛠 Language
+Problem files keep their original numbering and names. Only their folder location changes based on the primary DSA topic.
+
+## Language
 
 - Java
 
----
+## Objectives
 
-## 🎯 Objectives
+- Practice DSA consistently.
+- Strengthen topic-wise problem-solving skills.
+- Keep solutions easy to navigate for interview preparation.
+- Maintain a clean repository structure for recruiters and reviewers.
 
-- Solve coding problems consistently
-- Improve problem-solving skills
-- Learn multiple approaches for each problem
-- Strengthen DSA concepts
-- Prepare for coding interviews
-- Build strong GitHub consistency
-
----
-
-## 📅 Daily Progress
-
-✔ LeetCode Problems
-
-✔ GeeksforGeeks Problem of the Day
-
-✔ Java DSA Practice
-
-Repository is updated regularly.
-
----
-
-## 🤝 Connect With Me
+## Connect
 
 - GitHub: https://github.com/HariTeamCap
 - LinkedIn: https://www.linkedin.com/in/harikrishna-yadav-75850025b/
 - LeetCode: https://leetcode.com/u/Hari_krishna_27_4/
 - GeeksforGeeks: https://www.geeksforgeeks.org/profile/harikrishna274?tab=overview
-
----
-
-⭐ If you find this repository useful, feel free to Star it!
